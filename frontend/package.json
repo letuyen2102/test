@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "proxy" : "https://backend-3ydm.onrender.com",
+  "proxy" : "https://myway-shop.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

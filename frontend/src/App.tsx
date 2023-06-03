@@ -36,7 +36,7 @@ import io from "socket.io-client";
 import AdminChat from "./pages/adminChat/AdminChat";
 import SignupAdminPage from "./pages/SignupAdminPage/SignupAdminPage";
 import Reset from "./pages/resetPassword/Reset";
-const socket = io("https://backend-3ydm.onrender.com");
+const socket = io("https://myway-shop.onrender.com");
 function App() {
   const dispatch = useDispatch();
   const navigate = useNavigate();

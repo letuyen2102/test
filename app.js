@@ -19,6 +19,7 @@ app.use(
       "http://localhost:3000",
       "http://localhost:4000",
       "https://backend-3ydm.onrender.com",
+      "https://myway-shop.onrender.com"
     ],
   })
 );
